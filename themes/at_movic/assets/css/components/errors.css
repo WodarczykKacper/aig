@@ -1,0 +1,32 @@
+#products #main .page-header,
+#pagenotfound #main .page-header {
+  margin: 32px 0 48px; }
+#products .page-not-found,
+#pagenotfound .page-not-found {
+  background: white;
+  padding: 16px;
+  font-size: 13px;
+  color: #666;
+  max-width: 570px;
+  margin: 0 auto; }
+  #products .page-not-found .search-widget,
+  #pagenotfound .page-not-found .search-widget {
+    float: none; }
+    #products .page-not-found .search-widget input,
+    #pagenotfound .page-not-found .search-widget input {
+      width: 100%; }
+
+img {
+  max-width: 100%; }
+
+.logo img {
+  max-width: 300px; }
+
+#layout-error .page-content {
+  word-break: break-all;
+  padding: 0 20px; }
+
+#pagenotfound #main .page-header {
+  text-align: center; }
+
+/*# sourceMappingURL=errors.css.map */

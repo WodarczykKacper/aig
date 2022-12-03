@@ -1,0 +1,74 @@
+@import url("//fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600&display=swap");
+/*
+font-family: 'Oswald', sans-serif;
+*/
+body {
+  font-family: 'Oswald', sans-serif;
+  font-size: 16px;
+  font-weight: 300; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400; }
+
+.page-addresses .address .address-footer a span,
+.breadcrumb ol, .page-addresses .addresses-footer a span,
+.leo-cart-item-info .product-discount .regular-price {
+  font-size: 15px; }
+
+.blog-container .blog-title, .box-shipping .ApRawHtml h4, .plist-noe .thumbnail-container .product-title,
+.page-customer-account #content, h6, .h6, .box-outteam .ApImage .image_description,
+body#checkout #order-summary-content h4.h4, .text-muted, .box-fashion .ApHtml,
+body#checkout #order-summary-content #order-items h3.h3.card-title,
+body#checkout section.checkout-step .address-item .address,
+#blockcart-modal .modal-title, #blockcart-modal .product-name,
+.leo-quicklogin-modal, .leo-quicklogin-modal h3, .product-tabs.tabs .nav-tabs .nav-link,
+div.blockreassurance_product .block-title, div.blockreassurance_product p.block-title,
+.page-my-account #content .links a, .form-control, .leo-quicklogin-modal .label,
+.leo-widget .thumbnail-container .product-title, .alert,
+.products-sort-order .select-list, h5.modal-title, .leo-widget .widget-html,
+label, .label, .thumbnail-container .product-price-and-shipping .price,
+.leo-megamenu .navbar-nav > li > a, body #search_filters .facet .facet-title,
+.leo-dropdown-cart-subtotals .label, .leo-dropdown-cart-total .label,
+.leo-cart-item-info .product-price,
+.dropdown-menu, .leo-cart-item-info .product-name a,
+.popup-over .popup-content, .products-section-title span,
+#leo_search_block_top .form-control,
+.leo-megamenu .dropdown-menu li a, .contact-rich .block .data,
+.leo-megamenu .dropdown-menu a > .menu-title,
+.thumbnail-container .product-title,
+.footer-container .ApHtml .block_content > h4,
+.box-fashion .ApHtml a, .page-addresses .address,
+.footer-container .ApColumn .title_block, .page-addresses .address .address-body h4,
+.leo-megamenu .dropdown-menu div.menu-title {
+  font-size: 16px; }
+
+.box-nav1 .popup-over a.popup-title,
+.sidebar .block a.all-product-link,
+body #search_filters .facet .facet-label .magnitude,
+label[for="delivery_message"],
+body#checkout section.checkout-step .step-title,
+.leo-quicklogin-modal label, .product-flags,
+.form-control-comment, .leo-quicklogin-modal,
+.input-group .input-group-btn > .btn,
+.btn-outline, .btn, .btn-primary,
+.leo-cart-dropdown-action a.btn,
+.leo-block-sidebar .post-name a {
+  font-size: 14px; }
+
+.ApColumn .title_block {
+  font-size: 24px; }
+
+.box-shipping .ApRawHtml h4 {
+  font-size: 20px; }
+
+.btn-outline, .btn, .btn-primary,
+.leo-megamenu .dropdown-menu div.menu-title,
+.leo-megamenu .navbar-nav > li > a {
+  font-weight: 400; }
+
+.leo-megamenu .dropdown-menu li a,
+.leo-megamenu .dropdown-menu a > .menu-title {
+  font-weight: 300; }
+
+/*# sourceMappingURL=skin.css.map */

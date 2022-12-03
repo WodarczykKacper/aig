@@ -1,0 +1,22 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo:wght@400;700&display=swap");
+/*
+font-family: 'Arvo', serif;
+*/
+body {
+  font-size: 13px;
+  font-family: 'Arvo', serif; }
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-family: 'Arvo', serif; }
+
+.leo-megamenu .navbar-nav > li > a,
+.products-section-title,
+.product-tabs.tabs .nav-tabs .nav-link,
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  font-weight: 700; }
+
+.thumbnail-container .product-price-and-shipping .price,
+.thumbnail-container .product-title {
+  font-weight: 700; }
+
+/*# sourceMappingURL=skin.css.map */

@@ -1,0 +1,24 @@
+/*home 3*/
+.box-slider {
+  margin-bottom: 0; }
+
+.box-tabproducts .ApProductCarousel {
+  border-bottom: 0;
+  margin-bottom: 0; }
+
+.box-instagram .ApInstagram {
+  border-bottom: 0;
+  padding-bottom: 0;
+  margin-bottom: 0; }
+  .box-instagram .ApInstagram .block_content {
+    margin: 0; }
+  .box-instagram .ApInstagram .owl-carousel .owl-item {
+    padding: 0; }
+
+.page-home .box-slider {
+  margin-bottom: 0; }
+
+#index .footer-container {
+  border-top: 1px solid #eaeaea; }
+
+/*# sourceMappingURL=profile1513951283.css.map */
